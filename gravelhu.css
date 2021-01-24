@@ -18,7 +18,8 @@ main{
 	
 	font-family:BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
 	font-size: 20px;
-	margin-left: 0px;
+	
+	
 }
 .first{
 	width:20%;
@@ -31,6 +32,14 @@ header img{
 	width: 60%
 	
 	}
+.poem
+{
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 70px;
+}
 .pic{
 	display: inline-block;
 
@@ -40,10 +49,17 @@ header img{
 
 	width:25%;
 }
+
+h1{
+	text-align: center;
+	padding-top: 150px;
+
+}
 h2{
 	font-size: 40px;
 	color: #173B0B;
 	padding-top: 100px;
+	padding-bottom: 30px;
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
