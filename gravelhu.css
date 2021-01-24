@@ -3,6 +3,7 @@
 	
 
 	text-align: right;
+	
 }
 
 /*designed the header*/
@@ -11,27 +12,31 @@
 	font-size:15px;
 	font-style: oblique;
 	padding-right: 10px;
+
+
 	
 }
+
 
 main{
 	
 	font-family:BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
 	font-size: 20px;
-	
+
 	
 }
 .first{
 	width:20%;
 	margin-left: 10px;
+	background-color: #A9DFBF;
 	}
 header img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 60%
-	
-	}
+	width: 65%
+    }
+
 .poem
 {
 	width: 50%;
@@ -53,8 +58,16 @@ header img{
 h1{
 	text-align: center;
 	padding-top: 150px;
-
 }
+
+h4{
+	background-color: #A9DFBF;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 100px;
+}
+
+
 h2{
 	font-size: 40px;
 	color: #173B0B;
