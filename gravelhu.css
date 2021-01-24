@@ -9,12 +9,18 @@
 /*designed the header*/
 .header li{
 	display: inline-block;
-	font-size:15px;
+	font-size:20px;
 	font-style: oblique;
-	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-right: 30px;
+	color: white;
 
 
-	
+
+}
+header{
+	background-color: #0a6649;
+	margin-bottom: 50px;
 }
 
 
@@ -30,11 +36,12 @@ main{
 	margin-left: 10px;
 	background-color: #A9DFBF;
 	}
-header img{
+main img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 65%
+	width: 70%
+
     }
 
 .poem
@@ -44,7 +51,10 @@ header img{
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 70px;
+
 }
+
+
 .pic{
 	display: inline-block;
 
@@ -58,6 +68,7 @@ header img{
 h1{
 	text-align: center;
 	padding-top: 150px;
+
 }
 
 h4{
@@ -98,6 +109,7 @@ div img{
 	
 
 }
+
 
 
 form{
