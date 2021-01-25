@@ -1,5 +1,7 @@
 /*aligned the header(About,Events..) to the right*/
-
+html{
+	scroll-behavior: smooth;
+}
 .header{
 	
 
@@ -15,6 +17,7 @@
 	padding-bottom: 30px;
 	padding-right: 30px;
 	color: white;
+	
 
 
 
@@ -22,8 +25,26 @@
 header{
 	background-color: #0a6649;
 	margin-bottom: 50px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+
+	
 }
 
+a{
+	color: white;
+}
+
+a:hover{
+	color:#FFCC00;
+}
+
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
 
 main{
 	
@@ -41,6 +62,7 @@ main img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 150px;
 	width: 70%
 
     }
@@ -88,7 +110,7 @@ h2{
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-div{
+#Apple {
 	width: 300px;
 	height:300px;
 	box-sizing: border-box;
