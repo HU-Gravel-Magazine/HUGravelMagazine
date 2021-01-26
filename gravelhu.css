@@ -66,6 +66,9 @@ main img{
 	width: 70%
 
     }
+section{
+	background-image: url("background1.PNG");
+}
 
 .poem
 {
@@ -74,6 +77,7 @@ main img{
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 70px;
+
 
 }
 
@@ -99,12 +103,13 @@ h4{
 	padding-top: 25px;
 	padding-bottom: 25px;
 	margin-top: 100px;
+	margin-bottom: 0px;
 }
 
 
 h2{
 	font-size: 40px;
-	color: #173B0B;
+	color: white;
 	padding-top: 100px;
 	padding-bottom: 30px;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -123,7 +128,91 @@ h2{
 
 
 
+
 }
+
+#About{
+	width: 100%;
+	height:600px;
+	box-sizing: border-box;
+	opacity: 0.9;
+	
+	border:10px solid orange;
+	overflow: auto;
+	background-color: #424949;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	color: white;
+
+
+}
+
+#Highlight{
+	width: 100%;
+	height:600px;
+	box-sizing: border-box;
+	opacity: 0.9;
+	
+	border:10px solid orange;
+	overflow: auto;
+	background-color: #424949;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	color: white;
+}
+
+
+#Magazines{
+	width: 100%;
+	height:600px;
+	box-sizing: border-box;
+	opacity: 0.9;
+	
+	border:10px solid orange;
+	overflow: auto;
+	background-color: #424949;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	color: white;
+
+
+}
+
+#Team{
+	width: 100%;
+	height:600px;
+	box-sizing: border-box;
+	opacity: 0.9;
+	
+	border:10px solid orange;
+	overflow: auto;
+	background-color: #424949;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	color: white;
+
+
+}
+#Submissions{
+	width: 100%;
+	height:400px;
+	box-sizing: border-box;
+	opacity: 0.9;
+	
+	border:10px solid orange;
+	overflow: auto;
+	background-color: #424949;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	color: white;
+
+}
+
 div img{
 	width:40%;
 	float:left;
