@@ -221,7 +221,7 @@ h2{
 	width: 100%;
 	height:600px;
 	box-sizing: border-box;
-	opacity: 0.97;
+	opacity: 1;
 	padding-left: 100px;
 	border:10px solid orange;
 	overflow: auto;
