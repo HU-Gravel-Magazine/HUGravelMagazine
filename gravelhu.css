@@ -12,7 +12,7 @@ html{
 /*designed the header*/
 .header li{
 	display: inline-block;
-	font-size:20px;
+	font-size:10px;
 	font-style: oblique;
 	padding-bottom: 30px;
 	padding-right: 30px;
