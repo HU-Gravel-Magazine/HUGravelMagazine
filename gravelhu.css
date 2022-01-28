@@ -59,11 +59,13 @@ main{
 	background-color: #A9DFBF;
 	}
 
-.logo{
-	width:20%;
-	margin-left: 10px;
-	background-color: #A9DFBF;
-	}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .one{
 	background-image: url("background1.PNG");
 }
